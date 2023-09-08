@@ -1,0 +1,7 @@
+- A construction company landing page built with HTML and Javascript.
+- The page is responsive and mobile friendly.
+- The page is hosted on github and can be accessed via the link below.
+- [Construction Company Landing Page](https://danielotieno.github.io/Construction-Company-Landing-Page/)
+- The images are from unsplash
+- Design file is from figma 
+- [Design File](https://www.figma.com/file/0XZS3XVJZM2t3ZQ4Z0QqZV/Construction-Company-Landing-Page?node-id=0%3A1)
